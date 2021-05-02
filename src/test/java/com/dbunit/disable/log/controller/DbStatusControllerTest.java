@@ -24,7 +24,7 @@ class DbStatusControllerTest {
     @Test
     @Transactional
     @DisplayName("expected customer data should be same as actual data")
-    @DatabaseSetup("classpath:customerExpectedData.xml")
+    @DatabaseSetup("classpath:customerExpectedData22.xml")
     void selectTargetData(){
     }
 }
