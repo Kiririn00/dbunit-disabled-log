@@ -1,4 +1,4 @@
-package com.dbunit.disable.log.demo;
+package com.dbunit.disable.log;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

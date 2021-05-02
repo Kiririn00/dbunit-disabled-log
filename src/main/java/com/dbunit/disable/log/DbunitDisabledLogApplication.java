@@ -1,4 +1,4 @@
-package com.dbunit.disable.log.demo;
+package com.dbunit.disable.log;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
