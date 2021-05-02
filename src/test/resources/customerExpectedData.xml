@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <customer ID="1" NAME="TestUserName1" AGE="19" ADDRESS="TestUserAddress1"/>
+    <customer ID="2" NAME="TestUserName2" AGE="19" ADDRESS="TestUserAddress2"/>
+    <customer ID="3" NAME="TestUserName3" AGE="32" ADDRESS="TestUserAddress3"/>
+    <customer ID="4" NAME="TestUserName4" AGE="41" ADDRESS="TestUserAddress4"/>
+</dataset>
