@@ -17,7 +17,7 @@ create table customer
 insert into
     customer (name, age, address)
 VALUES
-('ルーク・スカイウォーカー', 19, 'タトゥイーン'),
-('レイア・オーガナ', 19, 'オルデラン'),
-('ハン・ソロ', 32, 'コレリア'),
-('ダース・ベイダー', 41, 'タトゥイーン');
+('TestUserName1', 19, 'TestUserAddress1'),
+('TestUserName2', 19, 'TestUserAddress2'),
+('TestUserName3', 32, 'TestUserAddress3'),
+('TestUserName4', 41, 'TestUserAddress4');
